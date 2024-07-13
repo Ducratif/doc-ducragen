@@ -7,6 +7,7 @@
 * [Voir sont solde](exemple-json/voir-sont-solde.md)
 * [Stock service](exemple-json/stock-service.md)
 * [services disponible](exemple-json/services-disponible.md)
+* [(Par Plan) services disponible](exemple-json/par-plan-services-disponible.md)
 * [API Banni ?](exemple-json/api-banni.md)
 * [Logs API](exemple-json/logs-api.md)
 * [Génération de compte](exemple-json/generation-de-compte.md)
