@@ -22,16 +22,15 @@ description: >-
 
 {% tabs %}
 {% tab title="200" %}
-```json
-{
-  "success": true,
+<pre class="language-json"><code class="lang-json"><strong>{
+</strong>  "success": true,
   "email": "test@gmail.com",
   "password": "password1234",
   "before_coins": 992,
   "after_coins": -991,
   "coins": -4
 }
-```
+</code></pre>
 {% endtab %}
 
 {% tab title="API non valide" %}

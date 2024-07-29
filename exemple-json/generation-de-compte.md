@@ -31,7 +31,9 @@ référé vous a la requete service disponible
   "success": true,
   "email": "test@gmail.com",
   "password": "password1234",
-  "coins": -3
+  "before_coins": 992,
+  "after_coins": -991,
+  "coins": -4
 }
 ```
 {% endtab %}
