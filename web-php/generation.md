@@ -22,7 +22,7 @@ Ensuite ajouter votre ID Discord lié à votre compte DucraGen
 
 Une fois validé, ce message va s'afficher, il faudra cliquer sur le bouton pour aller au Dashboard, puis par la suite supprimer bien le fichier index.php pour éviter que l'on supprimer votre configuration si votre site est en public.
 
-<figure><img src="../.gitbook/assets/Screenshot_5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot_5 (1).png" alt=""><figcaption></figcaption></figure>
 
 Une fois sur le Dashboard, vous verrez votre ID discord, ainsi que votre nombre de coins que vous avez sur votre compte.
 

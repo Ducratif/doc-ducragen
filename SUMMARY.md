@@ -16,6 +16,7 @@
 ## 🤖 Bot Discord
 
 * [Generation Solde](bot-discord/generation-solde.md)
+* [OpenSource](bot-discord/opensource.md)
 
 ## 🐘 WEB PHP
 
